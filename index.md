@@ -1,5 +1,11 @@
 # Robin Nguyen's Page
 
+
+
+<img src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600c27603ffbb25d83b4c85c%2FConor-McGregor-of-Ireland-poses-on-the-scale-during-the-UFC-257-weigh-in-at-Etihad%2F1960x0.jpg%3Ffit%3Dscale" alt="This is an image" style="zoom:50%;" />
+
+
+
 **I** __am__ *your* ~~friendly neighborhood~~ **__software engineer__**
 
 > What motivates me to continue my journey?
